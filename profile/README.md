@@ -3,7 +3,7 @@ Organisation for the research project: **Evaluating transfer learning for reinfo
 
 Research project carried out in partnership between [PulluP Entertainment](https://pullupent.com/en) and [ISART Digital Paris](https://www.isart.fr/)
 
-## Credit
+## Credits
 - [Bryan BACHELET](https://www.linkedin.com/in/bryan-bachelet/)
 - [Vincent DEVINE](https://www.linkedin.com/in/vincent-devine/)
 - [Matéo ERBISTI](https://www.linkedin.com/in/mat%C3%A9o-erbisti/)
