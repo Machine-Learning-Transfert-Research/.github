@@ -1,6 +1,10 @@
 # Machine Learning Transfert Research
 Organisation for the research project: **Evaluating transfer learning for reinforcement learning agents across same-genre video games**
 
+- [**Video presentation**](https://youtu.be/hnNUUpmB3l4)
+- [**Arcade prototype github**](https://github.com/Machine-Learning-Transfert-Research/Arcade-Prototype)
+- [**Realistic prototype github**](https://github.com/Machine-Learning-Transfert-Research/Realistic-Prototype)
+
 Research project carried out in partnership between [PulluP Entertainment](https://pullupent.com/en) and [ISART Digital Paris](https://www.isart.fr/)
 
 <p align="center">
