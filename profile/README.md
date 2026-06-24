@@ -1,4 +1,4 @@
-# Machine Learning Transfert Research
+# Machine Learning Transfer Research
 Organisation for the research project: **Evaluating transfer learning for reinforcement learning agents across same-genre video games**
 
 - [**Video presentation**](https://youtu.be/hnNUUpmB3l4)
@@ -11,6 +11,11 @@ Research project carried out in partnership between [PulluP Entertainment](https
     <img src="./Readme/pullup_logo.jpg" width="200" height="200" alt="pullup logo"/>
     <img src="./Readme/isart_logo.jpg"  width="200" height="200" alt="isart logo"/>
 </p>
+
+## Presentation
+This study, explores the transfer of reinforcement learning-trained AI agents within the game engine, **Unity**. <br>
+Several agents were trained on two racing game prototypes that differed in physics and mechanics. The goal was to make the agents as generalists as possible. The cross-game transfer has been observed, particularly the retraining required in the process. This analysis allowed us to maximize the efficiency of our transfers. <br>
+The objective is to produce a comprehensive analysis of the transfer process, from the results to the parameters that impact its performance.
 
 ## Credits
 - [Bryan BACHELET](https://www.linkedin.com/in/bryan-bachelet/)
