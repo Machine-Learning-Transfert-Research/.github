@@ -5,7 +5,9 @@ Organisation for the research project: **Evaluating transfer learning for reinfo
 - [**Arcade prototype github**](https://github.com/Machine-Learning-Transfert-Research/Arcade-Prototype)
 - [**Simulation prototype github**](https://github.com/Machine-Learning-Transfert-Research/Simulation-Prototype)
 
-Research project carried out in partnership between [PulluP Entertainment](https://pullupent.com/en) and [ISART Digital Paris](https://www.isart.fr/)
+Research project carried out in partnership between [PulluP Entertainment](https://pullupent.com/en) and [ISART Digital Paris](https://www.isart.fr/).
+
+Published as a short paper: "B. Bachelet, V. Devine, M. Erbisti, O. Lise, A. Lherbier and A. Chambon, "Evaluating transfer learning for reinforcement learning agents across same-genre video games," IEEE Conference on Games 2026, Madrid, Spain, 2026".
 
 <p align="center">
     <img src="./Readme/pullup_logo.jpg" width="200" height="200" alt="pullup logo"/>
